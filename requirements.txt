@@ -1,0 +1,3 @@
+numpy
+open3d
+tqdm  # optional, for progress bars

@@ -1,0 +1,8 @@
+name: pointcloud-precip
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - open3d
+  - tqdm
